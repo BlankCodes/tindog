@@ -1,2 +1,5 @@
 # tindog
-Tinder for dogs
+
+# To see the output 
+# [CLICK HERE](https://blankcodes.github.io/tindog/)
+#
